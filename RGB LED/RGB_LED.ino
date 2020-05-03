@@ -8,7 +8,7 @@ Created on 1 May 2020
 by EFindus
 
 Instructable link:
-
+https://www.instructables.com/id/RGB-Led-Controlled-by-Bluetooth-or-Potentiometer/
 */
 #include <Wire.h> 
 #include <PCF8574.h>
